@@ -14,6 +14,10 @@
   .name-letter {
     animation: move 1s infinite;
   }
+
+  .green-text {
+    color: green;
+  }
 </style>
 </head>
 <body>
@@ -26,11 +30,12 @@
     <span class="name-letter">M</span>
     <span class="name-letter">u</span>
     <span class="name-letter">l</span>
-    <span class="name-lett
+    <span class="name-letter">l</span>
+    <span class="name-letter">e</span>
+    <span class="name-letter">r</span>
+  </h1>
+  <p class="green-text">Profissão: Data Scientist</p>
+</body>
+</html>
 
-## Sobre este repositório
-Este repositório é destinado para compartilhar meu trabalho como Data Scientist. Sinta-se à vontade para explorar!
-
-## Cor predominante
-A cor predominante deste README é preto.
 
